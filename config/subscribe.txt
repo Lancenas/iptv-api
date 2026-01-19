@@ -1,9 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GATV.m3u
-
-
-
+https://m3u.ibert.me/fmml_index.m3u
+https://m3u.ibert.me/ycl_iptv.m3u
+https://m3u.ibert.me/y_g.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
