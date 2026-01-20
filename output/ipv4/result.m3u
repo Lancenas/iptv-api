@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/Lancenas/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-20 22:38:07
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-21 06:14:43
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -56,9 +56,9 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/index.
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
 http://58.248.112.205:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHX6pFJlsKFX2elUkY7G9WuYMgMwyeTsEM4M617I3YR8P&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -241,53 +241,67 @@ http://58.248.112.205:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPm
 http://jxcbn.ws-cdn.gitv.tv/hls/SHENZHD/index.m3u8?gMac=unknown&livodToken=6b52c18155b74d913b2a3060db6d74f2a29dd8a824d70f648a9882dca63fd962_1720509238_604800&fromCDN=ws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
 239.3.1.28:2000
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="CCTV5体育.png" group-title="体育",CCTV5体育
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="CCTV16奥林匹克.png" group-title="体育",CCTV16奥林匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="CCTV5+体育赛事.png" group-title="体育",CCTV5+体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="广东体育.png" group-title="体育",广东体育
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="香港",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="美亚电影台.png" group-title="香港",美亚电影台
-http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="香港",TVB Plus
-http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="香港",无线新闻台
 http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="香港",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="TVB星河.png" group-title="香港",TVB星河
+http://74.91.26.218:82/live/tvbxh.m3u8
+#EXTINF:-1 tvg-name="TVB千禧经典台" tvg-logo="TVB千禧经典台.png" group-title="香港",TVB千禧经典台
+http://74.91.26.218:82/live/tvbjd.m3u8
 #EXTINF:-1 tvg-name="NOW星影台" tvg-logo="NOW星影台.png" group-title="香港",NOW星影台
 http://74.91.26.218:82/live/nowxy.m3u8
 #EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="NOW爆谷台.png" group-title="香港",NOW爆谷台
 http://74.91.26.218:82/live/nowbg.m3u8
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="美亚电影台.png" group-title="香港",美亚电影台
+http://74.91.26.218:82/live/mydy.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="天映频道.png" group-title="香港",天映频道
+http://74.91.26.218:82/live/typd.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="天映经典.png" group-title="香港",天映经典
 http://74.91.26.218:82/live/tyjd.m3u8
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="中视经典.png" group-title="台湾",中视经典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="台湾",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="中视.png" group-title="台湾",中视
 http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="中视新闻.png" group-title="台湾",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="中视经典.png" group-title="台湾",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
 #EXTINF:-1 tvg-name="中视菁采" tvg-logo="中视菁采.png" group-title="台湾",中视菁采
 http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="台视.png" group-title="台湾",台视
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="台视新闻.png" group-title="台湾",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="台视综合.png" group-title="台湾",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-name="台视财经" tvg-logo="台视财经.png" group-title="台湾",台视财经
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="华视.png" group-title="台湾",华视
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 tvg-name="华视教育体育文化" tvg-logo="华视教育体育文化.png" group-title="台湾",华视教育体育文化
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="民视新闻台.png" group-title="台湾",民视新闻台
-http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-name="华视新闻资讯" tvg-logo="华视新闻资讯.png" group-title="台湾",华视新闻资讯
 http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="台视综合.png" group-title="台湾",台视综合
-http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 tvg-name="华视教育体育文化" tvg-logo="华视教育体育文化.png" group-title="台湾",华视教育体育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
 #EXTINF:-1 tvg-name="民视" tvg-logo="民视.png" group-title="台湾",民视
 http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="公视台语台.png" group-title="台湾",公视台语台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="台湾",民视第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="民视新闻台.png" group-title="台湾",民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="民视台湾台.png" group-title="台湾",民视台湾台
 http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="民视第一台.png" group-title="台湾",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
 #EXTINF:-1 tvg-name="公视" tvg-logo="公视.png" group-title="台湾",公视
 http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="公视台语台.png" group-title="台湾",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
 #EXTINF:-1 tvg-name="小公视" tvg-logo="小公视.png" group-title="台湾",小公视
 http://74.91.26.218:82/live/ptsse.m3u8
