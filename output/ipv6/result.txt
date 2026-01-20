@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 18:18:47,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
+2026-01-20 22:38:07,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
@@ -107,3 +107,12 @@ CETV-4,https://migu.188766.xyz/?migutoken=c601816a2a235762cbfc043f883867db&id=CE
 广东民生,https://hk.188766.xyz/?migutoken=dd3b46eac2562a4fe8dac16e0693d1fd&id=gd_gdms&type=sz
 大湾区卫视,https://migu.188766.xyz/?migutoken=f7b39e11ef8b584b2410a8d457dab1ab&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=f61baac184342ae461e6b5f24886b786&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+香港,#genre#
+TVB星河,https://mgev.188766.xyz/?migutoken=57b100d78c304de6bad020df374d50e8&id=hk_tvbxh&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=ac90a6b7c2dcc83dad76aa79ba844378&id=hk_fct&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=7d34a1615682ce3f43f3fd7c89598502&id=hk_fct4k&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=072fb16cdbe85eed283d9a7d9815e04c&id=hk_tvbp&type=dy
+无线新闻台,https://mgev.188766.xyz/?migutoken=91a6c0032df67b610f36764c6aaf8215&id=hk_wxxw&type=dy
+
+台湾,#genre#
