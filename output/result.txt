@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 17:01:13,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-01-20 18:18:47,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -27,6 +27,8 @@ CCTV-5,https://migu.188766.xyz/?migutoken=ae8a85e6f17b1383f9ad1a973489ad09&id=CC
 CCTV-5,https://migu.188766.xyz/?migutoken=48216643b534e08c848e8f53e84bde38&id=CCTV5&type=yy
 CCTV-5,https://migu.188766.xyz/?migutoken=c336b1fa58440ae96671f4728b7ffd10&id=CCTV5p&type=yy
 CCTV-5+,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20260119112735d3082ee684d446e18d6c067b97fcc8df&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260119112735&Channel_ID=0116_2600001300-99000-201600010012392&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=182.90.225.39&SecurityKey=20260119112735&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4e39518d206435ee29b6b00aff6d0c7e
+CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-5+,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-6,https://migu.188766.xyz/?migutoken=8459da0c8924b66740d8223477775abd&id=CCTV6&type=yy
@@ -83,8 +85,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=c601816a2a235762cbfc043f883867db&id=CE
 浙江卫视,https://migu.188766.xyz/?migutoken=e697a144034ed2841254d6e7a10b7eb2&id=z_jws&type=sz
 浙江卫视,https://migu.188766.xyz/?migutoken=e10832faa1c0968c62c2ea6165097367&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=fcd6c98b52457b21b1d5e92f945a4401&id=z_jws&type=sz
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,https://migu.188766.xyz/?migutoken=7068313831946affc8aff9b48a570bca&id=hnws&type=sz
 湖南卫视,https://migu.188766.xyz/?migutoken=44c92bc0d033511fecba7afead4c06c0&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 湖南卫视,https://migu.188766.xyz/?migutoken=ecef9046c3866af66bf4700470336a89&id=hnws&type=sz
