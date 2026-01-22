@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/Lancenas/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-22 14:31:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-22 14:57:21
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -307,3 +307,21 @@ http://74.91.26.218:82/live/pts.m3u8
 http://74.91.26.218:82/live/ptsty.m3u8
 #EXTINF:-1 tvg-name="小公视" tvg-logo="小公视.png" group-title="台湾",小公视
 http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="江阴新闻综合.png" group-title="☘️地方频道",江阴新闻综合
+http://59.110.126.191:3000/955227979
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="上海新闻综合.png" group-title="☘️地方频道",上海新闻综合
+http://59.110.126.191:3000/651632657
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="上视东方影视.png" group-title="☘️地方频道",上视东方影视
+http://59.110.126.191:3000/617290047
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️地方频道",上海第一财经
+http://59.110.126.191:3000/608780988
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="上海第一财经.png" group-title="☘️地方频道",上海第一财经
+https://live.kankanews.com/
+#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="江苏城市频道.png" group-title="☘️地方频道",江苏城市频道
+http://59.110.126.191:3000/626064714
+#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="江苏影视频道.png" group-title="☘️地方频道",江苏影视频道
+http://59.110.126.191:3000/626064697
+#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="江苏综艺频道.png" group-title="☘️地方频道",江苏综艺频道
+http://59.110.126.191:3000/626065193
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="镇江新闻综合.png" group-title="☘️地方频道",镇江新闻综合
+http://59.110.126.191:3000/639731783
