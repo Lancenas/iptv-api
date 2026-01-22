@@ -2,7 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 https://188766.xyz/itv
 https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/xumo_playlist.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.m3u
 
 
 [WHITELIST]
