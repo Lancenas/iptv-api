@@ -85,6 +85,11 @@ CCTV5+体育赛事
 广东体育
 
 香港,#genre#
+凤凰中文
+凤凰资讯
+凤凰香港
+明珠台
+ViuTV
 翡翠台
 无线新闻台
 TVB Plus
@@ -97,6 +102,8 @@ NOW爆谷台
 天映经典
 
 台湾,#genre#
+东森新闻
+东森财经
 中视
 中视新闻
 中视经典
@@ -115,3 +122,13 @@ NOW爆谷台
 公视
 公视台语台
 小公视
+
+国际,#genre#
+NBC News NOW
+ABC News Live
+CBS News
+TODAY All Day
+Sky News
+BBC News
+Salem News
+CNN Headlines
