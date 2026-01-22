@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-22 18:18:42,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
+2026-01-23 06:14:37,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
 
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
@@ -7,17 +7,20 @@ CCTV-1,https://migu.188766.xyz/?migutoken=6585eea65e3309a16c9e503b71aa963d&id=CC
 CCTV-1,https://migu.188766.xyz/?migutoken=d44d4edc04221499efbd11adeecdd6f3&id=CCTV1&type=yy
 CCTV-1,https://migu.188766.xyz/?migutoken=c2e9d60890d9f23a145fc25b07b3ff31&id=CCTV1&type=yy
 CCTV-1,https://live.catvod.com/live.php?id=cctv1
+CCTV-1,https://migu.188766.xyz/?migutoken=47f47dd31d5a406fee52c83c4b3fce20&id=CCTV1&type=yy
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&unique_id=stream-695106910011261612_684_flv&wsSecret=fc06766784777da294247d06ae30f581&wsTime=6966f95d
 CCTV-2,https://migu.188766.xyz/?migutoken=3e29bb687e253c01cfd99355021a38b8&id=CCTV2&type=yy
 CCTV-2,https://migu.188766.xyz/?migutoken=b6779e8424c6c4fe1ba74dc6d644729d&id=CCTV2&type=yy
 CCTV-2,https://migu.188766.xyz/?migutoken=b72679cba89ed5256fd92a42084739cf&id=CCTV2&type=yy
 CCTV-2,https://migu.188766.xyz/?migutoken=b72691164cc7676bc03717f637f8959a&id=CCTV2&type=yy
 CCTV-2,https://live.catvod.com/live.php?id=cctv2
+CCTV-2,https://migu.188766.xyz/?migutoken=dfd11c9cdd8699404be2cf2060ff6a79&id=CCTV2&type=yy
 CCTV-3,https://migu.188766.xyz/?migutoken=b13c449300b808de2e7d8955d259cb0c&id=CCTV3&type=yy
 CCTV-3,https://migu.188766.xyz/?migutoken=61357db75ffe7b57c96b608b4785e767&id=CCTV3&type=yy
 CCTV-3,https://migu.188766.xyz/?migutoken=f27bfd1d978f3cfc5e695cdf5dc8deb3&id=CCTV3&type=yy
 CCTV-3,https://migu.188766.xyz/?migutoken=50bb76d74193eca6d7e5290cbb920bcc&id=CCTV3&type=yy
 CCTV-3,https://live.catvod.com/live.php?id=cctv3
+CCTV-3,https://migu.188766.xyz/?migutoken=7a0ac8f925b6805e288f89ba612d9434&id=CCTV3&type=yy
 CCTV-4,https://migu.188766.xyz/?migutoken=0438f7209fb07047409499ebc2851c4d&id=CCTV4&type=yy
 CCTV-4,https://migu.188766.xyz/?migutoken=3d22f155005bcd3674e62a1f3c5f943c&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
 CCTV-4,https://migu.188766.xyz/?migutoken=302541e4df55efa30b3e10f7ced3cbff&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
@@ -44,58 +47,69 @@ CCTV-6,https://migu.188766.xyz/?migutoken=e45a1203d8e6edab79211278729886fe&id=CC
 CCTV-6,https://migu.188766.xyz/?migutoken=4956ed14c307c4ac97f60671cb081bfc&id=CCTV6&type=yy
 CCTV-6,https://migu.188766.xyz/?migutoken=da07526d27548f4bbf1b1c1651f89565&id=CCTV6&type=yy
 CCTV-6,https://live.catvod.com/live.php?id=cctv6
+CCTV-6,https://migu.188766.xyz/?migutoken=fee91a5ff4648f48b0eb8eaafea31a48&id=CCTV6&type=yy
 CCTV-7,https://migu.188766.xyz/?migutoken=9a0ee800fc2fddb475e6c176eaf9d8de&id=CCTV7&type=yy
 CCTV-7,https://migu.188766.xyz/?migutoken=c177ff1fad7e7f2371be703ed1dbc62e&id=CCTV7&type=yy
 CCTV-7,https://migu.188766.xyz/?migutoken=562c13e9e6a643eb30967bbc98ef4aad&id=CCTV7&type=yy
 CCTV-7,https://migu.188766.xyz/?migutoken=e2b59cb90ff6ae8128b1ec1f9c50314c&id=CCTV7&type=yy
 CCTV-7,https://live.catvod.com/live.php?id=cctv7
+CCTV-7,https://migu.188766.xyz/?migutoken=44e7ba029c2bad5c056bb495aba58317&id=CCTV7&type=yy
 CCTV-8,https://migu.188766.xyz/?migutoken=44fc07d6a00f7452069a4c3261963728&id=CCTV8&type=yy
 CCTV-8,https://migu.188766.xyz/?migutoken=58463633e1a5753c0628b5244eadf13f&id=CCTV8&type=yy
 CCTV-8,https://migu.188766.xyz/?migutoken=52b8d9d7897edd13e20d8a7fdaa59c0b&id=CCTV8&type=yy
 CCTV-8,https://migu.188766.xyz/?migutoken=7c1e29c197800da107cfb572a68e2e56&id=CCTV8&type=yy
 CCTV-8,https://live.catvod.com/live.php?id=cctv8hd
+CCTV-8,https://migu.188766.xyz/?migutoken=ce74e8b074a1fdf4693c4d2e7a568453&id=CCTV8&type=yy
 CCTV-9,https://migu.188766.xyz/?migutoken=ae67bb121c504e33d6a480573cf01c56&id=CCTV9&type=yy
 CCTV-9,https://migu.188766.xyz/?migutoken=00d973c3f525481ffb1868ab71fcc370&id=CCTV9&type=yy
 CCTV-9,https://migu.188766.xyz/?migutoken=6fe6657a61135652c4fdf43513880faa&id=CCTV9&type=yy
 CCTV-9,https://migu.188766.xyz/?migutoken=3ac2cc8bff9ba38b60b1cf6be9cc2cba&id=CCTV9&type=yy
 CCTV-9,https://live.catvod.com/live.php?id=cctv9hd
+CCTV-9,https://migu.188766.xyz/?migutoken=82c847286a8a13d5aaeb14cef695b662&id=CCTV9&type=yy
 CCTV-10,https://migu.188766.xyz/?migutoken=77682c897c2a39311f9cc175a532dacb&id=CCTV10&type=yy
 CCTV-10,https://migu.188766.xyz/?migutoken=e8e3fabf12713820b7433174548f288f&id=CCTV10&type=yy
 CCTV-10,https://migu.188766.xyz/?migutoken=3e171fc1f8d092c799e1556eafd6daca&id=CCTV10&type=yy
 CCTV-10,https://migu.188766.xyz/?migutoken=b55466cfda87238a14c01253a415529a&id=CCTV10&type=yy
 CCTV-10,https://live.catvod.com/live.php?id=cctv10hd
+CCTV-10,https://migu.188766.xyz/?migutoken=8c000c282439f84b9c8d70f70461f3b9&id=CCTV10&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=31c8f62ab810c9c313ab51b7c792ebfa&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=5e31341478191c2ce7c40f110ff256ae&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=02f32d73f19cb7aa3b1d908ad84aff10&id=CCTV11&type=yy
 CCTV-11,https://migu.188766.xyz/?migutoken=92624fe65d197b415ee9cbdaa1eb9a86&id=CCTV11&type=yy
 CCTV-11,https://live.catvod.com/live.php?id=cctv11
+CCTV-11,https://migu.188766.xyz/?migutoken=24305dea1bb29f2f635a98d44fe8af4e&id=CCTV11&type=yy
 CCTV-12,https://migu.188766.xyz/?migutoken=09f5a1656226e4f6ff9c3f3243eb1c1b&id=CCTV12&type=yy
 CCTV-12,https://migu.188766.xyz/?migutoken=f575fef3228294b6fd5ba032495792f6&id=CCTV12&type=yy
 CCTV-12,https://migu.188766.xyz/?migutoken=eb1c38bfe92e8e07ddc24c4b5b3c6e02&id=CCTV12&type=yy
 CCTV-12,https://migu.188766.xyz/?migutoken=18e102c03efcbeeb93a84e32e606e4ee&id=CCTV12&type=yy
 CCTV-12,https://live.catvod.com/live.php?id=cctv12
+CCTV-12,https://migu.188766.xyz/?migutoken=dc9933367f5f4447bb6cedf6274f032e&id=CCTV12&type=yy
 CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-695161386435347116/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1769399632&major_anchor_level=common&sign=9187b14d05855967b7a316320a1085ce&t_id=037-202601191153519CA1DA2812B4E30F9D02-KO6UcR&volcSecret=9187b14d05855967b7a316320a1085ce&volcTime=1769399632
 CCTV-13,https://migu.188766.xyz/?migutoken=5951d7f95b06f962ff70147c4049e94b&id=CCTV13&type=yy
 CCTV-13,https://migu.188766.xyz/?migutoken=cb7975c97a6ea1b8907a1ec8f3744791&id=CCTV13&type=yy
 CCTV-13,https://migu.188766.xyz/?migutoken=1f7419780f9b243ff9978aeacb58c75a&id=CCTV13&type=yy
 CCTV-13,https://migu.188766.xyz/?migutoken=203a8d0f6a75c00dd01254792112f154&id=CCTV13&type=yy
 CCTV-13,https://live.catvod.com/live.php?id=cctv13
+CCTV-13,https://migu.188766.xyz/?migutoken=dca0113015e8ae71845507946285505d&id=CCTV13&type=yy
 CCTV-14,https://migu.188766.xyz/?migutoken=f3edf51d13fca07f863536c521234a23&id=CCTV14&type=yy
 CCTV-14,https://migu.188766.xyz/?migutoken=fc229a2a2a098d4672407c55be8f99a5&id=CCTV14&type=yy
 CCTV-14,https://migu.188766.xyz/?migutoken=26f2ab9673cefb4e2fecff486a64321d&id=CCTV14&type=yy
 CCTV-14,https://migu.188766.xyz/?migutoken=5ec530e75fb2b35588a070e4726684a3&id=CCTV14&type=yy
 CCTV-14,https://live.catvod.com/live.php?id=cctv14
+CCTV-14,https://migu.188766.xyz/?migutoken=7668c5e462675ab1cf9b81ce59c0a6d9&id=CCTV14&type=yy
 CCTV-15,https://migu.188766.xyz/?migutoken=6f069f1b2a496b18e24786f975c7f104&id=CCTV15&type=yy
 CCTV-15,https://migu.188766.xyz/?migutoken=ef9bcac63d147705437ff32c4c9e79f6&id=CCTV15&type=yy
 CCTV-15,https://migu.188766.xyz/?migutoken=e0df917e7fea07ed1063d37c56ac6695&id=CCTV15&type=yy
 CCTV-15,https://migu.188766.xyz/?migutoken=c716bcb91796f6bfe8b0300f22507493&id=CCTV15&type=yy
 CCTV-15,https://live.catvod.com/live.php?id=cctv15
+CCTV-15,https://migu.188766.xyz/?migutoken=c5dd95ca79ae41cd914dc2d900f02e86&id=CCTV15&type=yy
 CCTV-16,https://live.catvod.com/live.php?id=cctv16
 CCTV-17,https://migu.188766.xyz/?migutoken=d32625450edaf4b0d4736fab06ee86d7&id=CCTV17&type=yy
 CCTV-17,https://migu.188766.xyz/?migutoken=a93263a295c77d86309de71449531ddc&id=CCTV17&type=yy
 CCTV-17,https://migu.188766.xyz/?migutoken=7de294a5c0ce218e5ea297eccbccb3c8&id=CCTV17&type=yy
 CCTV-17,https://migu.188766.xyz/?migutoken=16ff9fd054cf37692f0ff72a65f4dc1d&id=CCTV17&type=yy
 CCTV-17,https://live.catvod.com/live.php?id=cctv17
+CCTV-17,https://migu.188766.xyz/?migutoken=47b3ba758b3b90b539192c638bfc2d4c&id=CCTV17&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=fba07572f05b80eeb134b946c9b01cf0&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=f627e096b607dbc6c054725908780db3&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=23fe3b28f3e7c6ee89105ece09dd7a37&id=CETV1&type=yy
@@ -124,6 +138,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=24163db9db210fd8010ada1ad27ff526&id=CE
 浙江卫视,https://migu.188766.xyz/?migutoken=c234ebfa61c9f89ecf7b90d04c108aff&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,https://migu.188766.xyz/?migutoken=5ef0970805ea29a3eb6218b7b81250dd&id=z_jws&type=sz
 浙江卫视,https://live.catvod.com/live.php?id=zhejiang_twn
+浙江卫视,https://migu.188766.xyz/?migutoken=cf837ff94a508ed6bd04aa552f97f6bf&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 湖南卫视,https://migu.188766.xyz/?migutoken=7068313831946affc8aff9b48a570bca&id=hnws&type=sz
 湖南卫视,https://migu.188766.xyz/?migutoken=44c92bc0d033511fecba7afead4c06c0&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 湖南卫视,https://migu.188766.xyz/?migutoken=ecef9046c3866af66bf4700470336a89&id=hnws&type=sz
@@ -133,6 +148,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=24163db9db210fd8010ada1ad27ff526&id=CE
 湖南卫视,https://migu.188766.xyz/?migutoken=247f914bd08bb7a2bf7fd9da137b9787&id=hnws&type=sz
 湖南卫视,https://migu.188766.xyz/?migutoken=7d3fdbb714ce691e289ba22eab0452ef&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 湖南卫视,https://live.catvod.com/live.php?id=hunan_twn
+湖南卫视,https://migu.188766.xyz/?migutoken=754af6e2f756c1700606509f1a1059a2&id=hnws&type=sz
 北京卫视,https://migu.188766.xyz/?migutoken=af72eb9240a7b0df38662575708c6f09&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视,https://migu.188766.xyz/?migutoken=f41c6a4dad7e71bdea44e039cc507132&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视,https://migu.188766.xyz/?migutoken=7456c6182aee141001192f1b2df1ffae&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
@@ -258,13 +274,17 @@ CCTV16奥林匹克,https://live.catvod.com/live.php?id=cctv16
 翡翠台,https://mgev.188766.xyz/?migutoken=1efe09df79dc45173c4e4e6e764ba7ad&id=hk_fct4k&type=dy
 翡翠台,https://live.catvod.com/live.php?id=jade_twn
 翡翠台,https://live.catvod.com/live.php?id=Jade_xue
+翡翠台,https://mgev.188766.xyz/?migutoken=fc3775d800706c0e7d9ae8c036a3f1df&id=hk_fct&type=dy
+翡翠台,https://mgev.188766.xyz/?migutoken=4e97c9625aa83ed490f6057c7c3344a2&id=hk_fct4k&type=dy
 无线新闻台,https://mgev.188766.xyz/?migutoken=91a6c0032df67b610f36764c6aaf8215&id=hk_wxxw&type=dy
 无线新闻台,https://mgev.188766.xyz/?migutoken=95019a240f12dbfceeda6633b410f431&id=hk_wxxw&type=dy
 无线新闻台,https://mgev.188766.xyz/?migutoken=d9b24c1e56c6d36a822bce779307cc90&id=hk_wxxw&type=dy
 无线新闻台,https://live.catvod.com/live.php?id=inews_twn
+无线新闻台,https://mgev.188766.xyz/?migutoken=acd8e3c7484d9b5677812667da098e49&id=hk_wxxw&type=dy
 TVB Plus,https://mgev.188766.xyz/?migutoken=072fb16cdbe85eed283d9a7d9815e04c&id=hk_tvbp&type=dy
 TVB Plus,https://mgev.188766.xyz/?migutoken=dae661947d67e60a3636b793cad57982&id=hk_tvbp&type=dy
 TVB Plus,https://mgev.188766.xyz/?migutoken=273bcba0a873bc98c51e29ecc89dd254&id=hk_tvbp&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=241be3b671aba17506573f704dfdf665&id=hk_tvbp&type=dy
 TVB星河,https://mgev.188766.xyz/?migutoken=57b100d78c304de6bad020df374d50e8&id=hk_tvbxh&type=dy
 TVB星河,https://mgev.188766.xyz/?migutoken=5f2922f8dd82c7def294455be2f6b420&id=hk_tvbxh&type=dy
 TVB星河,https://mgev.188766.xyz/?migutoken=a5190c91f5c5484750ad89bc72d255ff&id=hk_tvbxh&type=dy
