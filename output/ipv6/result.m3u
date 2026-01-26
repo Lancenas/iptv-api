@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/Lancenas/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/节目名.png/CCTV1.png" group-title="🕘️更新时间",2026-01-26 18:18:45
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/节目名.png/CCTV1.png" group-title="🕘️更新时间",2026-01-27 06:14:20
 https://migu.188766.xyz/?migutoken=fba07572f05b80eeb134b946c9b01cf0&id=CETV1&type=yy
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/节目名.png/CETV1.png" group-title="📺央视频道",CETV-1
 https://migu.188766.xyz/?migutoken=fba07572f05b80eeb134b946c9b01cf0&id=CETV1&type=yy
@@ -287,6 +287,22 @@ https://migu.188766.xyz/?migutoken=6b4ba1e3a4778853bbc99fbe3789dc72&id=CCTV5&typ
 https://migu.188766.xyz/?migutoken=0a93b0f8c10c8c3d4114daf993d3a1f5&id=CCTV5p&type=yy
 #EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://epg.v1.mk/logo/节目名.png/CCTV16奥林匹克.png" group-title="体育",CCTV16奥林匹克
 https://live.catvod.com/live.php?id=cctv16
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://migu.188766.xyz/?migutoken=4e518cdf0eaf84edef7120d38e8deeeb&id=hk_gdty&type=dy
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://hk.188766.xyz/?migutoken=f9aff2c4ebcd55f3363a8a1cdf9b660a&id=gd_gdty&type=sz
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://migu.188766.xyz/?migutoken=8dd47ce2accaccd66acab75ddcb9f15a&id=hk_gdty&type=dy
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://hk.188766.xyz/?migutoken=9a99bf81bebec4167f2e206c8314224e&id=gd_gdty&type=sz
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://migu.188766.xyz/?migutoken=f59bc4cdebb45f3b352549c49b5c63b1&id=hk_gdty&type=dy
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://hk.188766.xyz/?migutoken=d1a075deb06fe184db5a9aee416b895c&id=gd_gdty&type=sz
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://migu.188766.xyz/?migutoken=80f151799a27c3dedab0e3f9cfedd1bb&id=hk_gdty&type=dy
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="体育",广东体育
+https://hk.188766.xyz/?migutoken=a39805911190c43727068baeee61ccb0&id=gd_gdty&type=sz
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/节目名.png/TVB星河.png" group-title="香港",TVB星河
 https://mgev.188766.xyz/?migutoken=57b100d78c304de6bad020df374d50e8&id=hk_tvbxh&type=dy
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/节目名.png/TVB星河.png" group-title="香港",TVB星河
@@ -452,8 +468,6 @@ url
 #EXTINF:-1 tvg-name="茂名公共" tvg-logo="https://epg.v1.mk/logo/节目名.png/茂名公共.png" group-title="content.no_result_channel_genre",茂名公共
 url
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://epg.v1.mk/logo/节目名.png/CCTV5+体育赛事.png" group-title="content.no_result_channel_genre",CCTV5+体育赛事
-url
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/节目名.png/广东体育.png" group-title="content.no_result_channel_genre",广东体育
 url
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/节目名.png/翡翠台.png" group-title="content.no_result_channel_genre",翡翠台
 url
