@@ -4,8 +4,7 @@
 
 <p>
     <br>
-    📺 IPTV live-source auto-update platform — 🤖 fully automated collection, filtering, speed-testing, and generation
-    pipeline 🚀. Supports extensive customization; paste the resulting URL into your player to watch
+    ⚡️ IPTV live-source automatic update platform — 🤖 fully automated collection, filtering, speed-testing, and generation 🚀. Supports extensive personalized configuration; paste the resulting address into a player to watch.
 </p>
 
 <p align="center">
@@ -128,7 +127,6 @@
 | location               | Interface location filter. Result will only contain interfaces whose location matches the given keywords (comma-separated). Leave empty to not restrict by location. Recommended to set near the end user to improve playback experience.                                                                                                   |                   |
 | isp                    | Interface operator filter. Result will only contain interfaces whose operator matches the given keywords (comma-separated). Leave empty to not restrict by operator.                                                                                                                                                                        |                   |
 | origin_type_prefer     | Preferred interface source ordering. The result is sorted in this order (comma-separated). Example: `local,subscribe`. Leave empty to not specify and sort by interface speed instead.                                                                                                                                                      |                   |
-| local_file             | Local source file path.                                                                                                                                                                                                                                                                                                                     | config/local.txt  |
 | local_num              | Preferred number of local source interfaces in the result.                                                                                                                                                                                                                                                                                  | 10                |
 | subscribe_num          | Preferred number of subscription source interfaces in the result.                                                                                                                                                                                                                                                                           | 10                |
 | logo_url               | Channel logo library URL.                                                                                                                                                                                                                                                                                                                   |                   |
@@ -146,6 +144,8 @@
 ```
 iptv-api/                  # Project root directory
 ├── config                 # Configuration files directory, includes config files, templates, etc.
+│   └── hls                # Local HLS streaming files directory, used to store video files named after channel names
+│   └── local              # Local source files directory; used to store multiple local source files; supports txt/m3u formats
 │   └── config.ini         # Configuration parameters file
 │   └── demo.txt           # Channel template
 │   └── alias.txt          # Channel aliases
