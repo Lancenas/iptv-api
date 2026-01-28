@@ -1,7 +1,20 @@
 🕘️更新时间,#genre#
-2026-01-28 18:19:50,https://migu.188766.xyz/?migutoken=fba07572f05b80eeb134b946c9b01cf0&id=CETV1&type=yy
+2026-01-29 06:18:28,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
 
 📺央视频道,#genre#
+CCTV-1,https://migu.188766.xyz/?migutoken=6b72d49b4ffaf354491e7f8294006708&id=CCTV1&type=yy
+CCTV-1,https://migu.188766.xyz/?migutoken=6585eea65e3309a16c9e503b71aa963d&id=CCTV1&type=yy
+CCTV-1,https://migu.188766.xyz/?migutoken=d44d4edc04221499efbd11adeecdd6f3&id=CCTV1&type=yy
+CCTV-1,https://migu.188766.xyz/?migutoken=c2e9d60890d9f23a145fc25b07b3ff31&id=CCTV1&type=yy
+CCTV-1,https://live.catvod.com/live.php?id=cctv1
+CCTV-1,https://migu.188766.xyz/?migutoken=47f47dd31d5a406fee52c83c4b3fce20&id=CCTV1&type=yy
+CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-695161386435347116/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1769399632&major_anchor_level=common&sign=9187b14d05855967b7a316320a1085ce&t_id=037-202601191153519CA1DA2812B4E30F9D02-KO6UcR&volcSecret=9187b14d05855967b7a316320a1085ce&volcTime=1769399632
+CCTV-13,https://migu.188766.xyz/?migutoken=5951d7f95b06f962ff70147c4049e94b&id=CCTV13&type=yy
+CCTV-13,https://migu.188766.xyz/?migutoken=cb7975c97a6ea1b8907a1ec8f3744791&id=CCTV13&type=yy
+CCTV-13,https://migu.188766.xyz/?migutoken=1f7419780f9b243ff9978aeacb58c75a&id=CCTV13&type=yy
+CCTV-13,https://migu.188766.xyz/?migutoken=203a8d0f6a75c00dd01254792112f154&id=CCTV13&type=yy
+CCTV-13,https://live.catvod.com/live.php?id=cctv13
+CCTV-13,https://migu.188766.xyz/?migutoken=dca0113015e8ae71845507946285505d&id=CCTV13&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=fba07572f05b80eeb134b946c9b01cf0&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=f627e096b607dbc6c054725908780db3&id=CETV1&type=yy
 CETV-1,https://migu.188766.xyz/?migutoken=23fe3b28f3e7c6ee89105ece09dd7a37&id=CETV1&type=yy
@@ -205,7 +218,6 @@ BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?
 CNN Headlines,https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_channelId=99951386&ads._fw_ifa_type=&ads._fw_did=1688482b-a389-4d5e-a8c1-9c32d6e2583c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNHeadlines&ads.csid=xumo_web_WBDCNNHeadlines_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4193&ads.xumo_contentName=WBDCNNHeadlines&ads.xumo_providerId=4193&ads.xumo_providerName=WBDCNNHeadlines&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951386&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 content.no_result_channel_genre,#genre#
-CCTV-1,url
 CCTV-2,url
 CCTV-3,url
 CCTV-4,url
@@ -218,7 +230,6 @@ CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-12,url
-CCTV-13,url
 CCTV-14,url
 CCTV-15,url
 CCTV-16,url
